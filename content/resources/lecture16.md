@@ -4,6 +4,8 @@ description: Aircraft Dynamics
 file: /courses/16-61-aerospace-dynamics-spring-2003/b0430e927f6182fd491afd6e8fe9f433_lecture16.pdf
 file_size: 525788
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

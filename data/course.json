@@ -34,6 +34,7 @@
     "website": "16-61-aerospace-dynamics-spring-2003"
   },
   "course_title": "Aerospace Dynamics",
+  "hide_download": true,
   "course_description": "This undergraduate course builds upon the dynamics content of Unified Engineering, a sophomore course taught in the Department of Aeronautics and Astronautics at MIT. Vector kinematics are applied to translation and rotation of rigid bodies. Newtonian and Lagrangian methods are used to formulate and solve equations of motion. Additional numerical methods are presented for solving rigid body dynamics problems. Examples and problems describe applications to aircraft flight dynamics and spacecraft attitude dynamics.\n",
   "department_numbers": [
     "16"
@@ -44,6 +45,7 @@
     "content": "1f8efa98-299e-41f5-9a8a-b01fa92c946d",
     "website": "16-61-aerospace-dynamics-spring-2003"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Exams",
     "Problem Sets"

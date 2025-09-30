@@ -4,6 +4,8 @@ description: 'Aircraft Lateral Dynamics: Spiral, Roll, and Dutch Roll Modes'
 file: /courses/16-61-aerospace-dynamics-spring-2003/1f0a14b69fb824f3892ddb008b037b80_lecture18.pdf
 file_size: 1534382
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: 'Homework Assignment #7'
 file: /courses/16-61-aerospace-dynamics-spring-2003/49005cdc82a32bfd1ce3f5f517c44e2e_hw7_ocw.pdf
 file_size: 59339
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

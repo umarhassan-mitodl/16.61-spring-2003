@@ -4,6 +4,8 @@ description: 'Lecture #6: Numerical Solution of Nonlinear Differential Equations
 file: /courses/16-61-aerospace-dynamics-spring-2003/ddc10d2f8cc4d472aecb0e10e8995db5_lecture6.pdf
 file_size: 1485575
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

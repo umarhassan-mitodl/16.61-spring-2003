@@ -4,6 +4,8 @@ description: 'Homework Assignment #10'
 file: /courses/16-61-aerospace-dynamics-spring-2003/ae8b5454f96718b12b1ed8f8452253df_hw10_ocw.pdf
 file_size: 86634
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

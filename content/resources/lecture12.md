@@ -4,6 +4,8 @@ description: 'Lecture #12: Rigid Body Dynamics'
 file: /courses/16-61-aerospace-dynamics-spring-2003/e689215467c115ea5cc399b7584ecf04_Lecture12.pdf
 file_size: 2966013
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
