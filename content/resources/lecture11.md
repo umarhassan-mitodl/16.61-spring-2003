@@ -4,8 +4,6 @@ description: 'Lecture #11: Kinematics of Rigid Body'
 file: /courses/16-61-aerospace-dynamics-spring-2003/ab3c253b08d0e2a62f97b30031338fa0_lecture11.pdf
 file_size: 1659466
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

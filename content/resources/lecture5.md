@@ -4,8 +4,6 @@ description: 'Lecture #5: Momentum, Angular Momentum. Dynamics of a System of Pa
 file: /courses/16-61-aerospace-dynamics-spring-2003/384be6e06c09f4d3a6c1a7f6b5b12814_lecture5.pdf
 file_size: 984555
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

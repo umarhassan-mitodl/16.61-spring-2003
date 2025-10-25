@@ -4,8 +4,6 @@ description: 'Lecture #7: Lagrange''s Equations'
 file: /courses/16-61-aerospace-dynamics-spring-2003/e9b08bd24cdf28d2e209106253287621_lecture7.pdf
 file_size: 244018
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

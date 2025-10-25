@@ -4,8 +4,6 @@ description: 'Lecture #10: Friction in Lagrange''s Formulation'
 file: /courses/16-61-aerospace-dynamics-spring-2003/0409d0eedb913c60aa6896e25227677c_lecture10.pdf
 file_size: 186564
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

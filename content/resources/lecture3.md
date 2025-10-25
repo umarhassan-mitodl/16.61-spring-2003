@@ -4,8 +4,6 @@ description: 'Lecture #3: Dynamics'
 file: /courses/16-61-aerospace-dynamics-spring-2003/eb2d08d05e83de56182bc9b5cc400419_lecture3.pdf
 file_size: 1406297
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
